@@ -1,0 +1,1 @@
+This app is fllowing the instruction from [this webiste](http://guides.ruby-china.org/getting_started.html)
